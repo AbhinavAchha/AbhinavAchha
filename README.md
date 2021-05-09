@@ -38,7 +38,6 @@ I expect to Fill this within a short time!!! 🙂
 ---
 ### Frameworks :
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/django.svg"/>](Django)
-[<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/react.svg"/>](React)
 [<img align="left" alt="Jquery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/jquery.svg"/>](Jquery)
 [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/bootstrap.svg"/>](Bootstrap)
 <br></br>
@@ -46,7 +45,7 @@ I expect to Fill this within a short time!!! 🙂
 
 ---
 ### Tools :
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=f71d05)
+![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=Fedora&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Neovim&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Multiplexer-Tmux-informational?style=flat&logo=Tmux&logoColor=white&color=f71d05)
@@ -54,7 +53,7 @@ I expect to Fill this within a short time!!! 🙂
 ![](https://img.shields.io/badge/DE-KDE-informational?style=flat&logo=KDE&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Terminal-Alacritty-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Device-Android-informational?style=flat&logo=Android&logoColor=white&color=f71d05)
-![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefoxbrowser&logoColor=white&color=f71d05)
+![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=f71d05)
 
 
 
