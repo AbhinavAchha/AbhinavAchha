@@ -28,18 +28,18 @@ I expect to Fill this within a short time!!! 🙂
 
 ### Languages :
 [<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gnubash.svg"/>](Bash)
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg"/>](C++)
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/c.svg"/>](C)
+[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg"/>](C++)
 [<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/javascript.svg"/>](Javascript)
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
 <br></br>
 
 
 ---
 ### Frameworks :
+[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/bootstrap.svg"/>](Bootstrap)
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/django.svg"/>](Django)
 [<img align="left" alt="Jquery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/jquery.svg"/>](Jquery)
-[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/bootstrap.svg"/>](Bootstrap)
 <br></br>
 
 
@@ -54,9 +54,3 @@ I expect to Fill this within a short time!!! 🙂
 ![](https://img.shields.io/badge/Terminal-Alacritty-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Device-Android-informational?style=flat&logo=Android&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=f71d05)
-
-
-
-
-
-
