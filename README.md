@@ -39,7 +39,6 @@ I expect to Fill this within a short time!!! 🙂
 ### Frameworks :
 [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/bootstrap.svg"/>](Bootstrap)
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/django.svg"/>](Django)
-[<img align="left" alt="Jquery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/jquery.svg"/>](Jquery)
 <br></br>
 
 
