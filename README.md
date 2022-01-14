@@ -5,6 +5,7 @@ I am Abhinav Achha. I currently don't have anything to write here.
 I expect to Fill this within a short time!!! 🙂
 <br></br>
 
+<a href="https://app.daily.dev/abhinavachha"><img align="right" src="https://api.daily.dev/devcards/14b41149e0824fb68087b3307988324d.png?r=awe" width="200" alt="Abhinav Achha's Dev Card"/></a>
 ---
 
 <br></br>
@@ -16,6 +17,7 @@ I expect to Fill this within a short time!!! 🙂
 <br></br>
 <br></br>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAchha&layout=compact&theme=onedark&langs_count=6&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="GitHub readme stats" width=405px> -->
+
 
 ### Ways to reach me:
 
@@ -41,6 +43,7 @@ I expect to Fill this within a short time!!! 🙂
 
 [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/bootstrap.svg"/>](Bootstrap)
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/django.svg"/>](Django)
+[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/electron.svg"/>](Electron)
 [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/react.svg"/>](React)
 <br></br>
 
