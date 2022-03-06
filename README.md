@@ -1,64 +1,26 @@
-## Hi all
+<h1 align="center">Hi 👋, This is Abhinav Achha</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavachha" alt="abhinavachha" /></a> </p>
 
-I am Abhinav Achha. I currently don't have anything to write here.
-<br></br>
-I expect to Fill this within a short time!!! 🙂
-<br></br>
+- 🌱 I’m currently learning **Django, React, Electron**
 
-<a href="https://app.daily.dev/abhinavachha"><img align="right" src="https://api.daily.dev/devcards/14b41149e0824fb68087b3307988324d.png?r=awe" width="200" alt="Abhinav Achha's Dev Card"/></a>
----
+- 📫 How to reach me **achhaabhinav@gmail.com**
 
-<br></br>
-<br></br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/abhinavachha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhinavachha" height="30" width="40" /></a>
+<a href="https://twitter.com/abhinavachha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavachha2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinav-achha-a9767b202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-achha-a9767b202" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14547900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14547900" height="30" width="40" /></a>
+<a href="https://instagram.com/_.abhi_nav.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.abhi_nav.__" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/achhaabhinav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="achhaabhinav" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavAchha&count_private=true&theme=midnight-purple)
-<br></br>
-<br></br>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAchha&layout=compact&theme=onedark&langs_count=6&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="GitHub readme stats" width=405px> -->
+<a href="https://app.daily.dev/abhinavachha"><img src="https://api.daily.dev/devcards/14b41149e0824fb68087b3307988324d.png?r=e9i" width="300" alt="Abhinav Achha's Dev Card"/></a>
+![Abhinav's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbhinavAchha&hide_border=true&theme=redical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavachha&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="abhinavachha" /></p>
 
-
-### Ways to reach me:
-
-[<img align="left" alt="abhinavachha | Linkedin" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png" />](https://www.linkedin.com/in/abhinav-achha)
-[<img align="left" alt="abhinavachha | Twitter" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png" />](https://www.twitter.com/AbhinavAchha2)
-[<img align="left" alt="abhinavachha | Instagram" width="22px" src="https://i.imgur.com/zTSjHxi.png" />](https://www.instagram.com/_.abhi_nav.__)
-[<img align="left" alt="abhinavachha | Telegram" width="22px" src="https://i.imgur.com/6BBu5v3.png" />](https://www.telegram.me/abhinavachha)
-<br></br>
-
----
-
-### Languages :
-
-[<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gnubash.svg"/>](Bash)
-[<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/javascript.svg"/>](Javascript)
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
-[<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/typescript.svg"/>](Typescript)
-<br></br>
-
----
-
-### Frameworks :
-
-[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/bootstrap.svg"/>](Bootstrap)
-[<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/django.svg"/>](Django)
-[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/electron.svg"/>](Electron)
-[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/react.svg"/>](React)
-<br></br>
-
----
-
-### Tools :
-
-![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=Linux&logoColor=white&color=f71d05)
-![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Neovim&logoColor=white&color=f71d05)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=f71d05)
-![](https://img.shields.io/badge/Multiplexer-Tmux-informational?style=flat&logo=Tmux&logoColor=white&color=f71d05)
-<br></br>
-![](https://img.shields.io/badge/DE-KDE-informational?style=flat&logo=KDE&logoColor=white&color=f71d05)
-![](https://img.shields.io/badge/Terminal-Alacritty-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=f71d05)
-![](https://img.shields.io/badge/Device-Android-informational?style=flat&logo=Android&logoColor=white&color=f71d05)
-![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=f71d05)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavachha&theme=highcontrast" alt="abhinavachha" /></p>
 
