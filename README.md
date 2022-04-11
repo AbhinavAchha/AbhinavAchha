@@ -23,8 +23,6 @@
 ![Abhinav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbhinavAchha&layout=compact&theme=github-light&hide=markdown)
 
 <a href="https://app.daily.dev/abhinavachha"><img src="https://api.daily.dev/devcards/14b41149e0824fb68087b3307988324d.png?r=e9i" width="300" alt="Abhinav Achha's Dev Card"/></a>
-![Abhinav's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbhinavAchha&hide_border=true&theme=redical)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavachha&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="abhinavachha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavachha&theme=highcontrast" alt="abhinavachha" /></p>
 
