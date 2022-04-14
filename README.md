@@ -20,9 +20,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/5593fad5-8a47-4f0c-a49d-b6f8f3600cee.svg)](https://wakatime.com/@5593fad5-8a47-4f0c-a49d-b6f8f3600cee)
 
-![Abhinav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbhinavAchha&layout=compact&theme=github-light&hide=markdown)
+![Abhinav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbhinavAchha&layout=compact&theme=tokyonight&hide=markdown,fugitive,yaml,json,conf,other&langs_count=6)
 
 <a href="https://app.daily.dev/abhinavachha"><img src="https://api.daily.dev/devcards/14b41149e0824fb68087b3307988324d.png?r=e9i" width="300" alt="Abhinav Achha's Dev Card"/></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavachha&theme=highcontrast" alt="abhinavachha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavachha&theme=tokyonight" alt="abhinavachha" /></p>
+
 
