@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, This is Abhinav Achha</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavachha&theme=tokyonight&title=Commits,Followers" alt="abhinavachha" /></a> </p>
 
+<img src="https://user-images.githubusercontent.com/68775533/210500248-835bb0ce-48eb-4bbb-a8b5-551d7e65e826.mp4" />
+
 - 📫 How to reach me **achhaabhinav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/abhinavachha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhinavachha" height="30" width="40" /></a>
 <a href="https://twitter.com/abhinav_achha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavachha2" height="30" width="40" /></a>
@@ -23,5 +26,3 @@
 <a href="https://app.daily.dev/abhinavachha"><img src="https://api.daily.dev/devcards/14b41149e0824fb68087b3307988324d.png?r=e9i" width="300" alt="Abhinav Achha's Dev Card"/></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavachha&theme=tokyonight" alt="abhinavachha" /></p>
-
-
