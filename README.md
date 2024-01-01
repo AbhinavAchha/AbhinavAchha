@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Abhinav Achha</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavachha&theme=tokyonight&title=Commits,Followers,Organizations,Reviews" alt="abhinavachha" /></a> </p>
 
-<img src="https://user-images.githubusercontent.com/68775533/210500248-835bb0ce-48eb-4bbb-a8b5-551d7e65e826.mp4" />
+https://github.com/AbhinavAchha/AbhinavAchha/assets/68775533/1717a886-bd62-4400-9e20-e1766ea1fb38
 
 - 📫 How to reach me **achhaabhinav@gmail.com**
 
