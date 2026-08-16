@@ -1,29 +1,64 @@
-<h1 align="center">Hi 👋, This is Abhinav Achha</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavachha&theme=tokyonight&title=Commits,Followers,Organizations,Reviews" alt="abhinavachha" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Abhinav+Achha;React+%2B+TypeScript;Go+%2B+Python;Linux+%2B+Neovim" alt="Abhinav Achha" />
+</div>
 
-https://github.com/AbhinavAchha/AbhinavAchha/assets/68775533/1717a886-bd62-4400-9e20-e1766ea1fb38
+<div align="center">
+  <a href="mailto:achhaabhinav@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-1f2335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+  </a>
+  <a href="https://linkedin.com/in/abhinav-achha-a9767b202">
+    <img src="https://img.shields.io/badge/LinkedIn-1f2335?style=for-the-badge&logo=linkedin&logoColor=70A5FD" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/abhinav_achha_">
+    <img src="https://img.shields.io/badge/Twitter-1f2335?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
+  </a>
+  <a href="https://dev.to/abhinavachha">
+    <img src="https://img.shields.io/badge/DEV-1f2335?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV" />
+  </a>
+  <a href="https://stackoverflow.com/users/14547900">
+    <img src="https://img.shields.io/badge/StackOverflow-1f2335?style=for-the-badge&logo=stackoverflow&logoColor=F48024" alt="Stack Overflow" />
+  </a>
+</div>
 
-- 📫 How to reach me **achhaabhinav@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,vite,materialui,tailwind,html,css,go,python,django,postgres,nginx,bash,git,linux,neovim,pnpm&perline=10" alt="Skills" />
+</div>
 
-<p align="left">
-<a href="https://dev.to/abhinavachha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhinavachha" height="30" width="40" /></a>
-<a href="https://twitter.com/abhinav_achha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavachha2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhinav-achha-a9767b202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-achha-a9767b202" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14547900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14547900" height="30" width="40" /></a>
-<a href="https://instagram.com/_.abhi_nav.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.abhi_nav.__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/achhaabhinav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="achhaabhinav" height="30" width="40" /></a>
-</p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a><a href="https://getfedora.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40" /> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a><a href="https://mui.com" target="_black" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialUI" width="40" height="40" /></a><a href="https://neovim.io" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/neovim" alt="neovim" width="40" height="40 " /></a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://pnpm.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/pnpm" alt="pnpm" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/vitejs/vite/blob/main/docs/images/vite.svg" alt="vite" width="40" height="40"/> </a> <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" /></a> </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhinavAchha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+</div>
 
-[![wakatime](https://wakatime.com/badge/user/5593fad5-8a47-4f0c-a49d-b6f8f3600cee.svg)](https://wakatime.com/@5593fad5-8a47-4f0c-a49d-b6f8f3600cee)
+<br />
 
-![Abhinav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbhinavAchha&layout=compact&theme=tokyonight&hide=markdown,fugitive,yaml,json,conf,other&langs_count=6)
+<div align="center">
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+</div>
 
+<div align="center">
+  <sub><!-- stats-generated -->Generated: pending first workflow run<!-- /stats-generated --></sub>
+</div>
 
-<a href="https://app.daily.dev/abhinavachha"><img src="https://api.daily.dev/devcards/v2/UCNTMyHJeQ6eF3N7hHh9q.png?r=hay&type=wide" width="652" alt="Abhinav Achha's Dev Card"/></a>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavachha&theme=tokyonight" alt="abhinavachha" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavAchha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavAchha&theme=tokyonight" alt="Contribution graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://wakatime.com/@5593fad5-8a47-4f0c-a49d-b6f8f3600cee">
+    <img src="https://wakatime.com/badge/user/5593fad5-8a47-4f0c-a49d-b6f8f3600cee.svg" alt="Wakatime" />
+  </a>
+</div>
