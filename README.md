@@ -36,7 +36,7 @@
 
 <div align="center">
   <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+  <img height="170" src="./profile/wakatime.svg" alt="WakaTime stats" />
 </div>
 
 <div align="center">

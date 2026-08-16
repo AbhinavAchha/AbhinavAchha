@@ -44,12 +44,12 @@ jobs:
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: true
 
-      - name: Generate top languages card
+      - name: Generate WakaTime card
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=360&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
-          path: profile/top-langs.svg
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&card_width=360&custom_title=WakaTime%20Stats
+          path: profile/wakatime.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: true
 
@@ -63,6 +63,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md profile/*.svg
+          git add README.md profile/stats.svg profile/wakatime.svg
           git commit -m "chore: update README cards" || exit 0
           git push
