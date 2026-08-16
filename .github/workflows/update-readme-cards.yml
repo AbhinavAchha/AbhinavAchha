@@ -48,10 +48,13 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&card_width=400&langs_count=8&custom_title=WakaTime%20Stats
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&card_width=400&langs_count=10&display_format=percent&custom_title=WakaTime%20Stats
           path: profile/wakatime.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: true
+
+      - name: Tidy WakaTime card
+        run: node scripts/tidy-wakatime-card.mjs
 
       - name: Update generated date
         run: |
