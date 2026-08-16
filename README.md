@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <sub><!-- stats-generated -->Generated: pending first workflow run<!-- /stats-generated --></sub>
+  <sub><!-- stats-generated -->Generated: Week 33, 2026<!-- /stats-generated --></sub>
 </div>
 
 <br />
