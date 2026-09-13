@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-  <sub><!-- stats-generated -->Generated: Week 36, 2026<!-- /stats-generated --></sub>
+  <sub><!-- stats-generated -->Generated: Week 37, 2026<!-- /stats-generated --></sub>
 </div>
 
 <br />
