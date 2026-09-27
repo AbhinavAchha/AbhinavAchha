@@ -138,37 +138,37 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="149.924"
+            width="149.77599999999998"
             height="8"
             fill="#00ADD8"
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="149.924"
+            x="149.776"
             y="0"
-            width="89.09599999999999"
+            width="89.54"
             height="8"
             fill="#3178c6"
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="239.02"
+            x="239.316"
             y="0"
-            width="9.583"
+            width="9.62"
             height="8"
             fill="#e38c00"
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="248.603"
+            x="248.936"
             y="0"
-            width="8.584"
+            width="8.547"
             height="8"
             fill="#f1e05a"
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="257.187"
+            x="257.483"
             y="0"
             width="3.367"
             height="8"
@@ -176,7 +176,7 @@
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="260.554"
+            x="260.85"
             y="0"
             width="2.3680000000000003"
             height="8"
@@ -184,7 +184,7 @@
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="262.922"
+            x="263.218"
             y="0"
             width="2.146"
             height="8"
@@ -192,7 +192,7 @@
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="265.068"
+            x="265.364"
             y="0"
             width="1.9610000000000003"
             height="8"
@@ -200,17 +200,17 @@
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="267.029"
+            x="267.325"
             y="0"
-            width="1.7389999999999999"
+            width="1.8870000000000002"
             height="8"
             fill="#083fa1"
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="268.768"
+            x="269.212"
             y="0"
-            width="100.01100000000001"
+            width="99.641"
             height="8"
             fill="#858585"
           />
@@ -219,22 +219,22 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go - 40.52 %
+        Go - 40.48 %
       </text>
     </g><g transform="translate(182.5, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 24.08 %
+        TypeScript - 24.20 %
       </text>
     </g><g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#e38c00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SQL - 2.59 %
+        SQL - 2.60 %
       </text>
     </g><g transform="translate(182.5, 50)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 2.32 %
+        JavaScript - 2.31 %
       </text>
     </g><g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
@@ -259,12 +259,12 @@
     </g><g transform="translate(25, 125)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 0.47 %
+        Markdown - 0.51 %
       </text>
     </g><g transform="translate(182.5, 125)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 27.03 %
+        Other - 26.93 %
       </text>
     </g>
   
