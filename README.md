@@ -69,18 +69,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavAchha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavAchha&theme=tokyonight" alt="Contribution graph" />
-</div>
-
-<br />
-
-<div align="center">
   <a href="https://wakatime.com/@5593fad5-8a47-4f0c-a49d-b6f8f3600cee">
     <img src="https://wakatime.com/badge/user/5593fad5-8a47-4f0c-a49d-b6f8f3600cee.svg" alt="Wakatime" />
   </a>
