@@ -138,15 +138,15 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="149.258"
+            width="149.07299999999998"
             height="8"
             fill="#00ADD8"
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="149.258"
+            x="149.073"
             y="0"
-            width="90.391"
+            width="90.57600000000001"
             height="8"
             fill="#3178c6"
           /><rect
@@ -154,21 +154,21 @@
             data-testid="lang-progress"
             x="239.649"
             y="0"
-            width="9.768"
+            width="9.842"
             height="8"
             fill="#e38c00"
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="249.417"
+            x="249.491"
             y="0"
-            width="8.399"
+            width="8.362"
             height="8"
             fill="#f1e05a"
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="257.816"
+            x="257.853"
             y="0"
             width="3.367"
             height="8"
@@ -176,9 +176,9 @@
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="261.183"
+            x="261.22"
             y="0"
-            width="2.405"
+            width="2.3680000000000003"
             height="8"
             fill="#000080"
           /><rect
@@ -186,21 +186,21 @@
             data-testid="lang-progress"
             x="263.588"
             y="0"
+            width="2.294"
+            height="8"
+            fill="#083fa1"
+          /><rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="265.882"
+            y="0"
             width="2.146"
             height="8"
             fill="#292929"
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="265.734"
-            y="0"
-            width="2.109"
-            height="8"
-            fill="#083fa1"
-          /><rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="267.843"
+            x="268.028"
             y="0"
             width="1.9240000000000002"
             height="8"
@@ -208,9 +208,9 @@
           /><rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="269.767"
+            x="269.952"
             y="0"
-            width="99.012"
+            width="98.79"
             height="8"
             fill="#858585"
           />
@@ -219,22 +219,22 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go - 40.34 %
+        Go - 40.29 %
       </text>
     </g><g transform="translate(182.5, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 24.43 %
+        TypeScript - 24.48 %
       </text>
     </g><g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#e38c00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SQL - 2.64 %
+        SQL - 2.66 %
       </text>
     </g><g transform="translate(182.5, 50)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 2.27 %
+        JavaScript - 2.26 %
       </text>
     </g><g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
@@ -244,17 +244,17 @@
     </g><g transform="translate(182.5, 75)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 0.65 %
+        Lua - 0.64 %
       </text>
     </g><g transform="translate(25, 100)">
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Markdown - 0.62 %
+      </text>
+    </g><g transform="translate(182.5, 100)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JSON - 0.58 %
-      </text>
-    </g><g transform="translate(182.5, 100)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 0.57 %
       </text>
     </g><g transform="translate(25, 125)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
@@ -264,7 +264,7 @@
     </g><g transform="translate(182.5, 125)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 26.76 %
+        Other - 26.70 %
       </text>
     </g>
   
